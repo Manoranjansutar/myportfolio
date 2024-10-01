@@ -9,7 +9,7 @@ const CoderProfile = () => {
       <p className='mx-6 text-xl'>email:' <span className='text-yellow-600'>sutar.manoranjan90@gmail.com</span> ',</p>
       <p className='flex flex-wrap mx-6 text-xl'>mobile:'<span className='text-yellow-600'>7326074744</span>',</p>
       <p className='mx-6 text-xl'>Skills:'<span className='text-yellow-600'>HTML</span>','<span className='text-yellow-600'>CSS</span>','<span className='text-yellow-600'> JavaScript </span>','<span className='text-yellow-600'>React</span>','<span className='text-yellow-600'> Bootstrap</span>','<span className='text-yellow-600'>Tailwind </span>','<span className='text-yellow-600'>Redux</span>','<span className='text-yellow-600'>NodeJs </span>','<span className='text-yellow-600'> ExpressJs</span>','<span className='text-yellow-600'> MongoDb</span>',</p>
-      <p className='mx-6 text-xl'>experience:'<span className='text-orange-500 '>3 years</span>',</p>
+      <p className='mx-6 text-xl'>experience:'<span className='text-orange-500 '>Fresher</span>',</p>
       <p className='mx-6 text-xl'>designation:'<span className='text-orange-500 '>FullStack Developer</span>',</p>
       <p className='mx-6 text-xl'>hardworker:'<span className='text-orange-500 '>true</span>',</p>
       <p className='mx-6 text-xl'>quicklearner:'<span className='text-orange-500 '>true</span>',</p>
